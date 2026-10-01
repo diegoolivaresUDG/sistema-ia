@@ -23,3 +23,5 @@ Diego Emiliano Olivares Silva
 - Git
 - Visual Studio Code
 - Python
+## Estado del proyecto
+Prototipo inicial.
